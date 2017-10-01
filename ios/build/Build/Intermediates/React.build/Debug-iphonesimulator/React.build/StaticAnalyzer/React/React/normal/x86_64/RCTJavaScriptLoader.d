@@ -1,0 +1,26 @@
+dependencies: \
+  /Volumes/Study/Project/ReactNative/Redux/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Volumes/Study/Project/ReactNative/Redux/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Volumes/Study/Project/ReactNative/Redux/node_modules/react-native/React/Base/RCTDefines.h \
+  /Volumes/Study/Project/ReactNative/Redux/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Volumes/Study/Project/ReactNative/Redux/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Volumes/Study/Project/ReactNative/Redux/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Volumes/Study/Project/ReactNative/Redux/node_modules/react-native/React/Base/RCTBridge.h \
+  /Volumes/Study/Project/ReactNative/Redux/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Volumes/Study/Project/ReactNative/Redux/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Volumes/Study/Project/ReactNative/Redux/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Volumes/Study/Project/ReactNative/Redux/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Volumes/Study/Project/ReactNative/Redux/node_modules/react-native/React/Base/RCTConvert.h \
+  /Volumes/Study/Project/ReactNative/Redux/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Volumes/Study/Project/ReactNative/Redux/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Volumes/Study/Project/ReactNative/Redux/node_modules/react-native/React/Base/RCTLog.h \
+  /Volumes/Study/Project/ReactNative/Redux/node_modules/react-native/React/Base/RCTAssert.h \
+  /Volumes/Study/Project/ReactNative/Redux/node_modules/react-native/React/Base/RCTUtils.h \
+  /Volumes/Study/Project/ReactNative/Redux/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Volumes/Study/Project/ReactNative/Redux/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Volumes/Study/Project/ReactNative/Redux/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Volumes/Study/Project/ReactNative/Redux/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Volumes/Study/Project/ReactNative/Redux/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Volumes/Study/Project/ReactNative/Redux/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Volumes/Study/Project/ReactNative/Redux/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Volumes/Study/Project/ReactNative/Redux/node_modules/react-native/React/Base/RCTPerformanceLogger.h
